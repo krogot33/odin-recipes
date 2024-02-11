@@ -1,0 +1,35 @@
+h1{
+
+    color: blue;
+    font-size: 40px;
+    text-decoration: underline;
+    text-align: center;
+}
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-size: 25px;
+}
+#recipe-links{
+
+    font-size: 30px;
+}
+img{
+
+    width: 450px;
+    height: auto;
+    float: right;
+}
+
+h2{
+
+    color: red;
+    font-size: 30px;
+    text-decoration: wavy;
+}
+p{
+
+    width: 1300px;
+}
+
